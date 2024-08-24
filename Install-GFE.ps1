@@ -37,7 +37,7 @@ if ($nvidia_smi_output -ge "425.31") {
 }
 else {
     $GEFORCE_EXPERIENCE_VERSION = "3.18.0.94"
-    $APP_JS_DOWNLOAD_URL = "https://raw.githubusercontent.com/Moyster/BaiGfe/8d88b42ee0840b3f0af0b7a60d2bbb97d1f994e6/app.js"
+    $APP_JS_DOWNLOAD_URL = "https://raw.githubusercontent.com/AntiGuide/BaiGfe/master/app.js"
 }
 
 $EXE_DOWNLOAD_URL = "https://us.download.nvidia.com/GFE/GFEClient/$GEFORCE_EXPERIENCE_VERSION/GeForce_Experience_v$GEFORCE_EXPERIENCE_VERSION.exe"
