@@ -3,7 +3,7 @@ This is a simple script to install Nvidia GeForce Experience without telemetry a
 
 ## How to use
 
-```powershell
+```
 irm https://github.com/hampta/GFE-Auto-Debloat/raw/main/Install-GFE.ps1 | iex
 ```
 
